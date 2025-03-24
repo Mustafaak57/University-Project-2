@@ -1,0 +1,10 @@
+C:\Users\Kerem\Documents\Projeler\Pizza_Siparis_Ekrani\MustafaProje\bin\Debug\MustafaProje.exe.config
+C:\Users\Kerem\Documents\Projeler\Pizza_Siparis_Ekrani\MustafaProje\bin\Debug\MustafaProje.exe
+C:\Users\Kerem\Documents\Projeler\Pizza_Siparis_Ekrani\MustafaProje\bin\Debug\MustafaProje.pdb
+C:\Users\Kerem\Documents\Projeler\Pizza_Siparis_Ekrani\MustafaProje\obj\Debug\MustafaProje.csproj.AssemblyReference.cache
+C:\Users\Kerem\Documents\Projeler\Pizza_Siparis_Ekrani\MustafaProje\obj\Debug\MustafaProje.Form1.resources
+C:\Users\Kerem\Documents\Projeler\Pizza_Siparis_Ekrani\MustafaProje\obj\Debug\MustafaProje.Properties.Resources.resources
+C:\Users\Kerem\Documents\Projeler\Pizza_Siparis_Ekrani\MustafaProje\obj\Debug\MustafaProje.csproj.GenerateResource.cache
+C:\Users\Kerem\Documents\Projeler\Pizza_Siparis_Ekrani\MustafaProje\obj\Debug\MustafaProje.csproj.CoreCompileInputs.cache
+C:\Users\Kerem\Documents\Projeler\Pizza_Siparis_Ekrani\MustafaProje\obj\Debug\MustafaProje.exe
+C:\Users\Kerem\Documents\Projeler\Pizza_Siparis_Ekrani\MustafaProje\obj\Debug\MustafaProje.pdb
